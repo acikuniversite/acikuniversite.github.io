@@ -10,6 +10,20 @@ Açık Üniversite, herkesin ücretsiz ve erişilebilir eğitim materyallerine u
 Open Source Society University) modelinden esinlenerek, içeriklerimizi Türkçeleştiriyor ve geniş bir kitleye ulaştırmayı
 amaçlıyoruz.
 
+## 🕒 Aktif Dersler
+
+Gerçek zamanlı olarak devam eden derslerimiz:
+
+### Yaz Kampı 2024 🏕️
+
+| Ders Adı | Açıklama | Eğitmen | Gereksinimler |
+|----------|---------|---------|---------------|
+| [Go Programlama 101](https://github.com/acik-universite/go101) | Go programlama dilini öğrenin. | - | -             |
+| [Web Geliştirme 101](https://github.com/acik-universite/web101) | Web geliştirme temellerini öğrenin. | - | -             | 
+| [Bilgisayar Bilimlerine Giriş](https://github.com/acik-universite/cs101) | Bilgisayar Bilimine ait temel konuların işlendiği ve farklı alt disiplinlerin tanıtıldığı bir ders. | - | -             |
+
+Başvuru yapmak ve daha fazla bilgi almak için [Kayıt Formu](https://acikuniversite.org/kayit) sayfamızı ziyaret edebilirsiniz. **Kamp Kontenjanları sınırlıdır.**
+
 ## 🚀 Kurslar Notları
 
 Açık Üniversite'de farklı seviyelerde ve konularda kurslar bulabilirsiniz. Her kurs, kendi GitHub deposunda detaylı
@@ -55,20 +69,6 @@ Yayındaki Dersler '✅' işareti ile belirtilmiştir. Yayında olmayan dersler 
 ### Ninja Seviye 🥷 (İleri Uzman)
 
 [Yakında]
-
-## 🕒 Aktif Dersler
-
-Gerçek zamanlı olarak devam eden derslerimiz:
-
-- **Yaz Kampı 2024 **
-
-| Ders Adı | Açıklama | Eğitmen |
-|----------|---------|---------|
-| [Go Programlama 101](https://github.com/acik-universite/go101) | Go programlama dilini öğrenin. | - |
-| [Web Geliştirme 101](https://github.com/acik-universite/web101) | Web geliştirme temellerini öğrenin. | - | 
-| [Bilgisayar Bilimlerine Giriş](https://github.com/acik-universite/cs101) | Bilgisayar Bilimine ait temel konuların işlendiği ve farklı alt disiplinlerin tanıtıldığı bir ders. | - |
-
-Başvuru yapmak ve daha fazla bilgi almak için [Kayıt Formu](https://acikuniversite.org/kayit) sayfamızı ziyaret edebilirsiniz. **Kamp Kontenjanları sınırlıdır.**
 
 ## 👥 Öğrenciler
 
