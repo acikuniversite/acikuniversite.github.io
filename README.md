@@ -33,11 +33,6 @@ Yayındaki Dersler '✅' işareti ile belirtilmiştir. Yayında olmayan dersler 
 
 ### Baykuş Seviye 🦉 (Orta)
 
-- [Go Programlama 201](https://github.com/acik-universite/go201) (go101 gereklidir)
-- [AI & Machine Learning](https://github.com/acik-universite/ai101) (py101 gereklidir)
-- [Web Geliştirme 201](https://github.com/acik-universite/web201) (web101 gereklidir)
-- [Veri Bilimi](https://github.com/acik-universite/data101) (py101 gereklidir)
-
 | Kod | Kurs Adı | Açıklama | Gereklilik | Yayında mı?|
 |-----|---------|---------|------------|------------|
 |go201|[Go Programlama 201](https://github.com/acik-universite/go201)| Go programlama dilinde ileri seviye konuları öğrenin.|  go101 | ✅ |  
