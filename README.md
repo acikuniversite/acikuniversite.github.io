@@ -39,22 +39,22 @@ Yayındaki Dersler '✅' işareti ile belirtilmiştir. Yayında olmayan dersler 
 
 | Kod        | Kurs Adı | Açıklama | Yayında mı? |
 |------------|-------- | --------- | ----------- |
-| go101      |[Go Programlama](https://acikuniversite.org//go101)| Go programlama dilini öğrenin. | ✅ |
-| cs101      |[Bilgisayar Bilimlerine Giriş](https://acikuniversite.org//cs101)| Bilgisayar bilimlerine genel bir giriş yapın. | ❌ |
-| web101     |[Web Geliştirme](https://acikuniversite.org//web101)| Web geliştirme temellerini öğrenin. | ❌ |
-| py101      |[Python Programlama](https://acikuniversite.org//py101)| Python programlama dilini öğrenin. | ❌ |
-| linux101   |[Linux Temelleri](https://acikuniversite.org//linux101)| Linux işletim sistemi temellerini öğrenin. | ❌ |
-| algo101    |[Algoritma ve Veri Yapıları](https://acikuniversite.org//algo101)| Algoritmalar ve veri yapıları hakkında bilgi edinin. | ❌ |
-| android101 |[Mobil Uygulama Geliştirme](https://acikuniversite.org//android101)| Android uygulama geliştirme temellerini öğrenin. | ❌ |
+| go101      |[Go Programlama](https://acikuniversite.org/go101)| Go programlama dilini öğrenin. | ✅ |
+| cs101      |[Bilgisayar Bilimlerine Giriş](https://acikuniversite.org/cs101)| Bilgisayar bilimlerine genel bir giriş yapın. | ❌ |
+| web101     |[Web Geliştirme](https://acikuniversite.org/web101)| Web geliştirme temellerini öğrenin. | ❌ |
+| py101      |[Python Programlama](https://acikuniversite.org/py101)| Python programlama dilini öğrenin. | ❌ |
+| linux101   |[Linux Temelleri](https://acikuniversite.org/linux101)| Linux işletim sistemi temellerini öğrenin. | ❌ |
+| algo101    |[Algoritma ve Veri Yapıları](https://acikuniversite.org/algo101)| Algoritmalar ve veri yapıları hakkında bilgi edinin. | ❌ |
+| android101 |[Mobil Uygulama Geliştirme](https://acikuniversite.org/android101)| Android uygulama geliştirme temellerini öğrenin. | ❌ |
 
 ### Baykuş Seviye 🦉 (Orta)
 
 | Kod | Kurs Adı | Açıklama | Gereklilik | Yayında mı?|
 |-----|---------|---------|------------|------------|
-|go201|[Go Programlama 201](https://acikuniversite.org//go201)| Go programlama dilinde ileri seviye konuları öğrenin.|  go101 | ✅ |  
-|ai101|[AI & Machine Learning](https://acikuniversite.org//ai101)| Yapay zeka ve makine öğrenmesi temellerini öğrenin. | py101 | ❌ |  
-|web201|[Web Geliştirme 201](https://acikuniversite.org//web201)| Web geliştirme alanında ileri seviye konuları öğrenin.  | web101 | ❌ |  
-|data201|[Veri Bilimi](https://acikuniversite.org//data101)| Veri bilimi temellerini öğrenin. | py101 | ❌ |
+|go201|[Go Programlama 201](https://acikuniversite.org/go201)| Go programlama dilinde ileri seviye konuları öğrenin.|  go101 | ✅ |  
+|ai101|[AI & Machine Learning](https://acikuniversite.org/ai101)| Yapay zeka ve makine öğrenmesi temellerini öğrenin. | py101 | ❌ |  
+|web201|[Web Geliştirme 201](https://acikuniversite.org/web201)| Web geliştirme alanında ileri seviye konuları öğrenin.  | web101 | ❌ |  
+|data201|[Veri Bilimi](https://acikuniversite.org/data101)| Veri bilimi temellerini öğrenin. | py101 | ❌ |
 
 ### Kartal Seviye 🦅 (İleri)
 
