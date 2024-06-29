@@ -16,7 +16,7 @@ Gerçek zamanlı olarak devam eden derslerimiz:
 
 ### Yaz Kampı 2024 🏕️
 
-<img src="24yazkamp.png" alt="Yaz Kampı 2024" width="400" />
+[<img src="24yazkamp.png" alt="Yaz Kampı 2024" width="400" />](24yazkamp.png)
 
 | Ders Adı                                                         | Açıklama | Eğitmen | Gereksinimler |
 |------------------------------------------------------------------|---------|---------|---------------|
