@@ -16,6 +16,8 @@ Gerçek zamanlı olarak devam eden derslerimiz:
 
 ### Yaz Kampı 2024 🏕️
 
+<img src="24yazkamp.png" alt="Yaz Kampı 2024" width="400" />
+
 | Ders Adı                                                         | Açıklama | Eğitmen | Gereksinimler |
 |------------------------------------------------------------------|---------|---------|---------------|
 | [Go Programlama 101](https://acikuniversite.org/go101)           | Go programlama dilini öğrenin. | - | -             |
