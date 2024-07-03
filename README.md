@@ -30,7 +30,8 @@ Kamp toplam 8 hafta sürecektir, Ek dersler harince 18 saatlik dersler olacaktı
     <th>Program</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/alameddinc"> <img src="https://avatars.githubusercontent.com/u/13180379?v=4" width="30" height="30" style="border-radius: 50%;" /> Alameddin Çelik</a></td>
+    
+    <td><a href="https://github.com/alameddinc"> <img src="https://avatars.githubusercontent.com/u/13180379?v=4" width="30" height="30" style="border-radius: 50%;"/> Alameddin Çelik</a></td>
     <td>Go101</td>
   </tr>
   <tr>
