@@ -3,11 +3,6 @@
 ## 📚 Açık Üniversite Nedir?
 Açık Üniversite, herkesin ücretsiz ve erişilebilir eğitim materyallerine ulaşmasını hedefleyen bir platformdur. Misyonumuz, yüksek kaliteli eğitimi herkese ulaştırmak ve hayat boyu öğrenme fırsatları sunmaktır. Vizyonumuz, Türkiye'de ve dünyada açık kaynak eğitim materyalleri ile eğitimde eşitliği sağlamaktır.
 
-
-### Alt Başlıklar
-<details>
-  <summary>Yaz Kampı 24 🏕️ (Detaylar için tıklayın)</summary>
-
 ### Yaz Kampı 24 🏕
 
 #### Program Tanıtımı
@@ -65,10 +60,8 @@ Kamp toplam 8 hafta sürecektir, Ek dersler harince 18 saatlik dersler olacaktı
 
 ### Katılım Formu:
 ### ---> [Yaz Kampı Kayıt Formu 📝](https://forms.gle/FZzpFfMUfTRNhw139)
-</details>
-
-<details>
-  <summary>📚 Kurslar ve Eğitimler 📚 (Detaylar için tıklayın)</summary>
+ 
+## 📚 Kurslar ve Eğitimler 📚 (Detaylar için tıklayın)</summary>
     
 ### Tilki Seviye 🦊 (Başlangıç)
 
@@ -111,10 +104,7 @@ Yayındaki Dersler '✅' işareti ile belirtilmiştir. Yayında olmayan dersler 
 
 [Yakında]
 
-</details>
-
-<details>
-  <summary>Neden Açık Üniversite? 🤔 (Detaylar için tıklayın)</summary>
+## Neden Açık Üniversite? 🤔
 
 ### 📝 Git Based Sertifika ve Referans Sistemi
 - Proje tabanlı öğrenme ve değerlendirme sistemi.
@@ -134,10 +124,8 @@ Yayındaki Dersler '✅' işareti ile belirtilmiştir. Yayında olmayan dersler 
 - İş arayış ve Çalışan arayışlarında destek ve referans olabilecek bir topluluk.
 - İnovatif projeler ve girişimlerde işbirliği ve destek sağlayan bir ağ.
 - Zararlı ve olumsuz durumlara karşı koruyucu ve önleyici tedbirler alan bir topluluk.
-</details>
 
-<details>
-  <summary>Ekip Yapımız 🤝 (Detaylar için tıklayın)</summary>
+## Ekip Yapımız 🤝
 
 ### 🧑‍🏫 Eğitmenler ve Koçlar
 
@@ -165,10 +153,7 @@ Kaynak geliştirme ekibi, eğitim materyallerini oluşturmak ve düzenlemekle so
 - **Kaynak Oluşturma ve Düzenleme:** Eğitim materyallerinin oluşturulması ve düzenlenmesi.
 - **Editor:** Materyallerin dilbilgisi ve format açısından düzenlenmesi ve yayınlanması.
 
-</details>
-
-<details>
-  <summary>İletişim ve Destek 📞 (Detaylar için tıklayın)</summary>
+## İletişim ve Destek 📞
 
 ## 📢 İletişim ve Destek
 Daha fazla bilgi için [acikuniversite.org](https://acikuniversite.org) adresini ziyaret edebilirsiniz.
@@ -179,11 +164,7 @@ Sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz
 - GitHub Issues: [Açık Üniversite](https://github.com/acikuniversite)
 - E-posta: [info@acikuniversite.org](mailto:info@acikuniversite.org)
 
-</details>
-
-
-<details>
-<summary>📚 Katkıda Bulunma Rehberi</summary>
+## 📚 Katkıda Bulunma Rehberi
 
 ## 📝 Nasıl Katkıda Bulunabilirsiniz?
 Projemize katkıda bulunmak isterseniz, ilgili kursun deposuna giderek “Issues” kısmına bakabilir ve katkıda bulunmak istediğiniz alanı seçebilirsiniz. Pull request’lerinizi bekliyoruz!
@@ -191,13 +172,3 @@ Projemize katkıda bulunmak isterseniz, ilgili kursun deposuna giderek “Issues
 Ders içeriklerini geliştirmek, hataları düzeltmek veya yeni dersler eklemek için katkıda bulunabilirsiniz. Ayrıca çeviriler yaparak dünya çapında popüler kaynakları Türkçeleştirebilirsiniz.
 
 Katkıda bulunabilmek için lütfen [Katkıda Bulunma Rehberi](https://github.com/acikuniversite/contributing) ve [Kod Etik Kuralları](https://github.com/acikuniversite/code-of-conduct) dosyalarını inceleyin ve bizimle iletişime geçiniz.
-
-</details>
-
-<details>
-<summary>📜 Lisans Bilgisi</summary>
-
-## 📜 Lisans
-Bu projedeki tüm içerikler MIT Lisansı altında sunulmaktadır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
-
-</details>
