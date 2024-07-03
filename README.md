@@ -34,11 +34,11 @@ Kamp toplam 8 hafta sürecektir, Ek dersler harince 18 saatlik dersler olacaktı
     <td>Go101</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/adem-enes"> <img src="https://avatars.githubusercontent.com/u/27769280?s=80&v=4" width="30" height="30" style="border-radius: 50%;" /> Adem Enes</a></td>
+    <td><a href="https://github.com/adem-enes"> <img src="https://avatars.githubusercontent.com/u/37158217?s=80&v=4" width="30" height="30" style="border-radius: 50%;" /> Adem Enes</a></td>
     <td>Web101</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/svkylmz"> <img src="https://avatars.githubusercontent.com/u/37158217?s=80&v=4" width="30" height="30" style="border-radius: 50%;" /> Sevki Yılmaz</a></td>
+    <td><a href="https://github.com/svkylmz"> <img src="https://avatars.githubusercontent.com/u/27769280?s=80&v=4" width="30" height="30" style="border-radius: 50%;" /> Sevki Yılmaz</a></td>
     <td>CS101</td>
   </tr>
 </table>
