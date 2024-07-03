@@ -1,4 +1,4 @@
-<img src="banner.png" width="750">
+<a href="https://acikuniversite.org"><img src="banner_resize.png" width="1280"></a>
 
 ## 📚 Açık Üniversite Nedir?
 Açık Üniversite, herkesin ücretsiz ve erişilebilir eğitim materyallerine ulaşmasını hedefleyen bir platformdur. Misyonumuz, yüksek kaliteli eğitimi herkese ulaştırmak ve hayat boyu öğrenme fırsatları sunmaktır. Vizyonumuz, Türkiye'de ve dünyada açık kaynak eğitim materyalleri ile eğitimde eşitliği sağlamaktır.
