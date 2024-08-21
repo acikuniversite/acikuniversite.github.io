@@ -158,7 +158,7 @@ Kaynak geliştirme ekibi, eğitim materyallerini oluşturmak ve düzenlemekle so
 ## 📢 İletişim ve Destek
 Daha fazla bilgi için [acikuniversite.org](https://acikuniversite.org) adresini ziyaret edebilirsiniz.
 
-Discord kanalımıza katılın: [Açık Üniversite Discord](https://discord.gg/URL)
+Discord kanalımıza katılın: [Açık Üniversite Discord](https://discord.gg/F9KzaEnR8Q)
 
 Sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz:
 - GitHub Issues: [Açık Üniversite](https://github.com/acikuniversite)
