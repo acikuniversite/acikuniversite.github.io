@@ -1,94 +1,46 @@
-<a href="https://acikuniversite.org"><img src="banner_resize.png" width="1280"></a>
+<a href="https://acikuniversite.org">
+<img src="./banner_resize.png" width="1280"/>
+</a>
 
 ## 📚 Açık Üniversite Nedir?
 Açık Üniversite, herkesin ücretsiz ve erişilebilir eğitim materyallerine ulaşmasını hedefleyen bir platformdur. Misyonumuz, yüksek kaliteli eğitimi herkese ulaştırmak ve hayat boyu öğrenme fırsatları sunmaktır. Vizyonumuz, Türkiye'de ve dünyada açık kaynak eğitim materyalleri ile eğitimde eşitliği sağlamaktır.
 
-### Yaz Kampı 24 🏕
+### Dönemler
+- **Yaz Kampı 2024 (Tamamlandı)**
+- [Güz Dönemi 2025 (Son Kayıt 30 Ekim)](./guz25.md)
 
-#### Program Tanıtımı
-
-Kamp toplam 8 hafta sürecektir, Ek dersler harince 18 saatlik dersler olacaktır.
-
-#### Kimler için Uygundur?
-
-- Yazılım geliştirme alanında kariyer yapmak isteyenler
-- Programlama dillerini öğrenmek isteyenler
-- Web geliştirme alanında kendini geliştirmek isteyenler
-- Bilgisayar bilimlerine giriş yapmak isteyenler
-
-#### Program İçeriği
-
-[![Lessons](https://skillicons.dev/icons?i=go,devto,docker,html,react,css,git,css,bootstrap,)](https://skillicons.dev)
-- **Go101:** Go programlama dilinin temellerini, algoritma ve veri yapılarını öğreneceğiniz bir programdır
-- **Web101:** Web geliştirme temelleri, HTML, CSS, JavaScript ve React gibi teknolojileri öğreneceğiniz bir programdır
-- **CS101:** Bilgisayar bilimlerine giriş ve mesleki kariyer çizginizi belirlemek için temel bilgileri öğreneceğiniz bir programdır
-
-#### Eğitmenler ve Koçlar
-<table>
-  <tr>
-    <th>Eğitmen</th>
-    <th>Program</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/alameddinc"> <img src="https://avatars.githubusercontent.com/u/13180379?v=4" width="30" height="30" style="border-radius: 50%;"/> Alameddin Çelik</a></td>
-    <td>Go101</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/adem-enes"> <img src="https://avatars.githubusercontent.com/u/37158217?s=80&v=4" width="30" height="30" style="border-radius: 50%;" /> Adem Enes</a></td>
-    <td>Web101</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/svkylmz"> <img src="https://avatars.githubusercontent.com/u/27769280?s=80&v=4" width="30" height="30" style="border-radius: 50%;" /> Şevket Yılmaz</a></td>
-    <td>CS101</td>
-  </tr>
-</table>
-
-### 📅 Yaz Kampı Ajandası
-
-- 🗓️ 5 Temmuz: Tanışma Toplantısı
-- 📋 5 Temmuz - 14 Temmuz: Kayıt ve Tanışma
-- 📚 15 Temmuz - 5 Eylül: Dersler ve Etkinlikler
-- 🏆 6 Eylül: Proje Teslimi ve Değerlendirme
-
-### Bitirince Ne Olacak?
-
-- AçıkÜniversite altında katıldığınız dersler, projeler ve etkinlikler ile sertifika online olarak paylaşılacak ve QRCode olarak özgeçmişinize eklenmesi için paylaşılacaktır
-- LinkedIn ve diğer sosyal medya platformlarında eğitimi tamamladığınızı belirten paylaşımlarınız desteklenecektir
-- AçıkÜniversite Discord sunucumuzda devam eden etkinlikler ve projelerde yer almaya devam etme hakkı kazanacaksınız
-- Güz25 ve sonraki kamp programlarına öncelikli katılım hakkı kazanacak, önceden mezun olduğunuz dersler için eğitmenlik, koçluk ve mentörlük yapma hakkı kazanacaksınız.
-- Arge ve Kaynak Geliştirme ekiplerindeki inovatif projelerde yer alma hakkı kazanacaksınız
-
-### Katılım Formu:
-### ---> [Yaz Kampı Kayıt Formu 📝](https://forms.gle/FZzpFfMUfTRNhw139)
- 
-## 📚 Kurslar ve Eğitimler 📚 (Detaylar için tıklayın)</summary>
-    
-### Tilki Seviye 🦊 (Başlangıç)
-
+### Kurslar
 Gereksinim duymadan başlayabileceğiniz dersler:
 
-Yayındaki Dersler '✅' işareti ile belirtilmiştir. Yayında olmayan dersler ise '❌' işareti ile belirtilmiştir.
+- ✅ Daha önceden işlenmiş ve kaydı bulunan dersler.
+- 🔜 Yakın zamanda aktif olacak dersler.
+- 🕞:Planlaması henüz yapılmamış dersler
+#### Tilki Seviye 🦊 (Başlangıç)
 
-| Kod        | Kurs Adı | Açıklama | Yayında mı? |
-|------------|-------- | --------- | ----------- |
-| go101      |[Go Programlama](https://acikuniversite.org/go101)| Go programlama dilini öğrenin. | ✅ |
-| cs101      |[Bilgisayar Bilimlerine Giriş](https://acikuniversite.org/cs101)| Bilgisayar bilimlerine genel bir giriş yapın. | ❌ |
-| web101     |[Web Geliştirme](https://acikuniversite.org/web101)| Web geliştirme temellerini öğrenin. | ❌ |
-| py101      |[Python Programlama](https://acikuniversite.org/py101)| Python programlama dilini öğrenin. | ❌ |
-| linux101   |[Linux Temelleri](https://acikuniversite.org/linux101)| Linux işletim sistemi temellerini öğrenin. | ❌ |
-| algo101    |[Algoritma ve Veri Yapıları](https://acikuniversite.org/algo101)| Algoritmalar ve veri yapıları hakkında bilgi edinin. | ❌ |
-| android101 |[Mobil Uygulama Geliştirme](https://acikuniversite.org/android101)| Android uygulama geliştirme temellerini öğrenin. | ❌ |
+| Kod         | Kurs Adı                                                           | Açıklama                                                                                                       | Yaz24 | Güz25 |
+| ----------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ----- | ----- |
+| go101       | [Go Programlama](https://acikuniversite.org/go101)                 | Go programlama dilini öğrenin.                                                                                 | ✅     | 🔜    |
+| cs101       | [Bilgisayar Bilimlerine Giriş](https://acikuniversite.org/cs101)   | Bilgisayar bilimlerine genel bir giriş yapın.                                                                  | ✅     | 🔜    |
+| web101      | [Web Geliştirme](https://acikuniversite.org/web101)                | Web geliştirme temellerini öğrenin.                                                                            | ✅     | 🔜    |
+| py101       | [Python Programlama](https://acikuniversite.org/py101)             | Python programlama dilini öğrenin.                                                                             | 🕞    | 🕞    |
+| linux101    | [Linux Temelleri](https://acikuniversite.org/linux101)             | Linux işletim sistemi temellerini öğrenin.                                                                     | 🕞    | 🕞    |
+| algo101     | [Algoritma ve Veri Yapıları](https://acikuniversite.org/algo101)   | Algoritmalar ve veri yapıları hakkında bilgi edinin.                                                           | 🕞    | 🕞    |
+| android101  | [Mobil Uygulama Geliştirme](https://acikuniversite.org/android101) | Android uygulama geliştirme temellerini öğrenin.                                                               | 🕞    | 🕞    |
+| data101     | Veri ve Veritabanı Mimarisi                                        | Veri bilimi hakkında temelleri öğreneceğiniz ve Veritabanları üzerine yetkinlik kazanacağınız özel ders serisi | 🕞    | 🔜    |
+| dataeng101  | Veri Mühendisliğine Giriş                                          |                                                                                                                | 🕞    | 🕞    |
+| WebDesign"H | Web Tasarım (Hanımlara Özel)                                       | Web geliştirme temellerini öğrenin.                                                                            | 🕞    | 🔜    |
+| UI/UX101    |                                                                    |                                                                                                                | 🕞    | 🕞    |
 
-### Baykuş Seviye 🦉 (Orta)
+#### Baykuş Seviye 🦉 (Orta)
 
-| Kod | Kurs Adı | Açıklama | Gereklilik | Yayında mı?|
-|-----|---------|---------|------------|------------|
-|go201|[Go Programlama 201](https://acikuniversite.org/go201)| Go programlama dilinde ileri seviye konuları öğrenin.|  go101 | ✅ |  
-|ai101|[AI & Machine Learning](https://acikuniversite.org/ai101)| Yapay zeka ve makine öğrenmesi temellerini öğrenin. | py101 | ❌ |  
-|web201|[Web Geliştirme 201](https://acikuniversite.org/web201)| Web geliştirme alanında ileri seviye konuları öğrenin.  | web101 | ❌ |  
-|data201|[Veri Bilimi](https://acikuniversite.org/data101)| Veri bilimi temellerini öğrenin. | py101 | ❌ |
+| Kod     | Kurs Adı                                                  | Açıklama                                               | Gereklilik | Yayında mı? |
+| ------- | --------------------------------------------------------- | ------------------------------------------------------ | ---------- | ----------- |
+| go201   | [Go Programlama 201](https://acikuniversite.org/go201)    | Go programlama dilinde ileri seviye konuları öğrenin.  | go101      | ✅           |
+| ai101   | [AI & Machine Learning](https://acikuniversite.org/ai101) | Yapay zeka ve makine öğrenmesi temellerini öğrenin.    | py101      | ❌           |
+| web201  | [Web Geliştirme 201](https://acikuniversite.org/web201)   | Web geliştirme alanında ileri seviye konuları öğrenin. | web101     | ❌           |
+| data201 | [Veri Bilimi](https://acikuniversite.org/data101)         | Veri bilimi temellerini öğrenin.                       | py101      | ❌           |
 
-### Kartal Seviye 🦅 (İleri)
+#### Kartal Seviye 🦅 (İleri)
 
 | Kod | Kurs Adı | Açıklama | Gereklilik | Yayında mı?|
 |-----|---------|---------|------------|------------|
@@ -96,13 +48,6 @@ Yayındaki Dersler '✅' işareti ile belirtilmiştir. Yayında olmayan dersler 
 |ai201|[AI & Machine Learning 201](./ai201)| Yapay zeka ve makine öğrenmesi alanında ileri seviye konuları öğrenin. | ai101 | ❌ |
 |data201|[Veri Bilimi 201](./data201)| Veri bilimi alanında ileri seviye konuları öğrenin. | data101 | ❌ |
 
-### Aslan Seviye 🦁 (Uzman)
-
-[Yakında]
-
-### Ninja Seviye 🥷 (İleri Uzman)
-
-[Yakında]
 
 ## Neden Açık Üniversite? 🤔
 
@@ -162,7 +107,7 @@ Discord kanalımıza katılın: [Açık Üniversite Discord](https://discord.gg/
 
 Sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz:
 - GitHub Issues: [Açık Üniversite](https://github.com/acikuniversite)
-- E-posta: [info@acikuniversite.org](mailto:info@acikuniversite.org)
+- E-posta: [acikuniversite@acikuniversite.org](mailto:acikuniversite@acikuniversite.org)
 
 ## 📚 Katkıda Bulunma Rehberi
 
