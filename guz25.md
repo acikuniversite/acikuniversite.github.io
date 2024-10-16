@@ -74,6 +74,7 @@ Aşağıda, bu dönemde sunulacak derslerin detaylarını bulabilirsiniz.
 
 -------
 ## Eğitmenler
+
 | Ders Adı               | Eğitmen                | Sosyal Ağlar                                                              |
 | ---------------------- | ---------------------- | ------------------------------------------------------------------------- |
 | Data101                | Alameddin Çelik        | [LinkedIn](https://tr.linkedin.com/in/alameddinc)                         |
