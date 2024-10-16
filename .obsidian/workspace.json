@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "guz25.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "guz25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "guz25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "guz25.md"
               }
             }
           }
@@ -172,8 +172,9 @@
   },
   "active": "392925d405ca0998",
   "lastOpenFiles": [
-    "guz25.md",
     "README.md",
+    "guz25.png",
+    "guz25.md",
     "Mayadem Sink.md",
     "Restful & HTTP Methods.md",
     "Pasted image 20241002180609.png",

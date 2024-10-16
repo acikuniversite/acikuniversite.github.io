@@ -1,3 +1,6 @@
+<a href="https://acikuniversite.org">
+<img src="./guz25.png" width="1280"/>
+</a>
 # Açık Üniversite Güz25 Dönemi
 ## Güz 25 Dönemi Hakkında
 Açık Üniversite olarak, Güz Dönemi 2025 için çeşitli alanlarda yeni ve güncel dersler sunmaya hazırlanıyoruz. Bu dönem, teknoloji, veri bilimi, programlama ve web geliştirme gibi kritik alanlarda kendini geliştirmek isteyen öğrencilere yönelik kapsamlı bir eğitim programı sunuyoruz. Amacımız, katılımcıların bu alanlarda kariyerlerini ilerletebilmeleri ve sektörde aranan niteliklere sahip olmalarını sağlamaktır.
